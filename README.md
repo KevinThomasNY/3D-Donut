@@ -1,1 +1,1 @@
-<img src="images/Donut-Website-Images.png" width="100">
+<img src="images/Donut-Website-Images.png">
